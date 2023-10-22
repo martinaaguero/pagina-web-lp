@@ -1,0 +1,209 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+margin-top: 20px;
+background-color: plum;
+}
+
+.img{
+margin:10px;
+margin-left: 100px;
+margin-top: 5px;
+}
+
+.marca{
+display: flex;
+margin-left: 10px;
+font-size: 35px;
+}
+
+.menu{
+ margin-left: 750px;
+font-size: 20px;
+margin-top: 10px;
+}
+
+a{
+margin-right: 25px;
+color: black;
+text-decoration: none;
+}
+
+/*----------------------------------------------------------*/
+
+.seccion1{
+    background-color: aqua;
+display: flex;
+margin-top: 50px;
+}
+
+h1{
+font-size: 70px;
+margin-left:200px;
+}
+
+.v-line{
+    border-left: solid gray;
+    height: 20%;
+    left: 35%;
+    margin-top: 20px;
+   position: absolute;
+}
+
+.enrique-i {
+    display: flex;
+  flex-direction: column;
+margin-left: 590px;
+position: absolute;
+top: 150px;
+font-size: 30px;
+}
+
+.enrique-ii{
+margin-left: 590px;
+position: absolute;
+top: 210px;
+}
+ 
+/*---------------------------------------------------*/
+
+.seccion2{
+display: flex;
+margin-top: 50px;
+}
+ 
+.banner{
+    height: 500px;
+width: 1272px;
+margin-left: 200px;
+}
+
+.flecha1{
+background-color: black;
+color:white;
+font-size: 20px;
+height: 50px;
+width: 100px;
+position: absolute;
+top: 790px;
+left: 1270px ;
+}
+
+.flecha2{
+    background-color: white;
+    color:black;
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    border: none;
+    position: absolute;
+    top: 790px;
+left: 1370px;
+}
+
+/*-----------------------------------------------------*/
+
+.seccion6{
+background-color: violet;
+margin-top: 50px;
+padding: 30px;
+display: flex;
+flex-direction: row;
+}
+
+.caja-1, .caja-1sub {
+margin-top: 20px;
+margin-left: 40px;
+font-size: 35px;
+}
+
+.texto-1{
+margin-top: 15px;
+margin-left: 40px;
+font-size: 20px ;
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+}
+
+.flecha11{
+
+    background-color: white;
+    color:black;
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    border: none;
+   margin-top: 100px;
+margin-left: 50px;
+}
+
+.flecha22{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+margin-top: 100px;
+margin-left: 0;
+}
+
+.cajas{
+margin-left: 300px;
+}
+
+.caja-2, .caja-2sub{
+    margin-top: 45px;
+font-size: 25px;
+
+}
+
+
+.texto-2{
+font-size: 15px;
+font-family: Arial, sans-serif;
+margin-top: 60px;
+ color: gray;
+}
+
+
+.imagenes, .imagen-caja2, .imagen-caja3{
+height: 150px;
+width: 150px;
+}
+
+.imagen-caja2{
+margin-left: 250px;
+margin-top: 50px;
+}
+
+.caja-3sub{
+margin-top: 70px;
+font-size: 25px;
+}
+
+.texto-3{
+font-size: 15px;
+font-family: Arial, sans-serif;
+margin-top: 50px;
+margin-bottom: 50px;
+color: gray;
+}
+
+.imagen-caja3{
+margin-left: 250px ;
+margin-top: 60px;
+}
+
+
+/*------------------------------------------------------*/
+
+
+
+
+
+
